@@ -1,0 +1,37 @@
+// Font families
+$main-font-family:'Roboto', sans-serif;
+$title-font-family:'Roboto', sans-serif;
+$body-font-family: $main-font-family;
+
+
+// Font sizes
+$font-size-base: 15px;
+$font-size-small: $font-size -5px;
+
+
+// Base colors
+$color-amazing-39: rgb(184, 122, 122);
+$color-grastur: rgb(14, 17, 34);
+
+
+
+// Main components colors
+
+
+// Responsive
+// 667 iphone landscape. 768 ipad portrait
+$mobile-portrait-width: 414px;
+$mobile-landscape-width: 767px;
+$tablet-portrait-width: $mobile-landscape-width + 1;
+$tablet-landscape-width: 1024px;
+
+// Forms variables
+$form-input-border-color: $color-grastur;
+$form-input-outline-color: $color-grastur;
+$form-buttom-background-color: $color-grastur;
+$form-buttom-font-color: $color-less-is-less;
+$form-error-background-color: $color-amazing-39;
+$form-error-font-color: $color-less-is-less;
+
+
+
